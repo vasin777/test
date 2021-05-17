@@ -16,5 +16,6 @@ $array_count = (array_count_values($array));  // записываем в пер�
     <tr>
 </table>
 </center>
+
 </html>
 
