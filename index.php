@@ -1,1 +1,1 @@
-<a href="test_1.php">Задание - 1<a>
+<a href="test_1/test_1.php">Задание - 1<a>
