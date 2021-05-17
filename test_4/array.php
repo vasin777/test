@@ -7,4 +7,13 @@ foreach ($array_count as $arr) {
 foreach (array_unique($array) as $array_out) {
         echo $array_out.'-';
 }
+?>
+
+<html>
+        Все элементы массива:  <?php foreach ($array as $art) {
+            echo $art;
+        }; ?>
+
+
+</html>
 
