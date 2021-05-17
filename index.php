@@ -3,3 +3,5 @@
 <a href="test_2/img.php">Задание - 2<a>
         <br>
 <a href="test_3/db.php">Задание - 3<a>
+        <br>
+<a href="test_4/array.php">Задание - 4<a>
